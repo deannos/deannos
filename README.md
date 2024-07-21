@@ -1,13 +1,12 @@
 # Bio
 
-<table>
+<table style="width: 100%;">
   <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/86396326?s=400&u=2266480f90f16f1a476c2a232d011140dcbe0909&v=4" alt="avatar" style="border-radius: 50%;"></td>
-    <td>
-      <h2>Software Developer</h2>
-    </td>
+    <td style="width: 20%;"><img src="https://avatars.githubusercontent.com/u/86396326?s=400&u=2266480f90f16f1a476c2a232d011140dcbe0909&v=4" alt="avatar" style="border-radius: 50%; width: 100%; height: auto;"></td>
+    <td style="width: 80%;"><h2>Software Developer</h2></td>
   </tr>
 </table>
+
 
 I'm a versatile software developer with a robust background in both frontend and backend technologies. My tech stack includes:
 
@@ -25,9 +24,9 @@ I am passionate about creating efficient, scalable solutions and continuously ho
 
 ### 📫 Contact Me
 
-- [GitHub](https://github.com/your-username)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- [Email](mailto:your-email@example.com)
+- [GitHub](https://github.com/deannos)
+- [LinkedIn](https://www.linkedin.com/in/amishjha)
+- [Email](mailto:amjha21122002@gmail.com)
 
 ---
 
