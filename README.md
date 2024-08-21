@@ -22,7 +22,7 @@ I am passionate about creating efficient, scalable solutions and continuously ho
 - **Top 3.73%** on [LeetCode](https://leetcode.com/deannos)
 - **10k+ Hackos** on [HackerRank](https://www.hackerrank.com/deannos)
 - **600+ problems solved** on [CodeChef](https://www.codechef.com/users/deannos_coder)
-- **450+ problems solved** on [LeetCode](https://leetcode.com/deannos)
+- **600+ problems solved** on [LeetCode](https://leetcode.com/deannos)
 - **Global Rank 98** in June Long Challenge CodeChef 2022 (among 13.7k participants)
 - **Global Rank 157** in Starters 61 CodeChef 2022 (among 15.1k participants)
 - **Global Rank 188** in Starters 80 CodeChef 2023 (among 16.5k participants)
