@@ -19,7 +19,7 @@ I am passionate about creating efficient, scalable solutions and continuously ho
 
 ### 🏆 Achievements
 
-- **Top 3.73%** on [LeetCode](https://leetcode.com/deannos)
+- **Top 3.36%** on [LeetCode](https://leetcode.com/deannos)
 - **10k+ Hackos** on [HackerRank](https://www.hackerrank.com/deannos)
 - **600+ problems solved** on [CodeChef](https://www.codechef.com/users/deannos_coder)
 - **600+ problems solved** on [LeetCode](https://leetcode.com/deannos)
