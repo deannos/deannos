@@ -34,7 +34,8 @@ I am passionate about creating efficient, scalable solutions and continuously ho
 ### 📫 Contact Me
 
 - [GitHub](https://github.com/deannos)
-- [LinkedIn](https://www.linkedin.com/in/amishjha)
+- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="amishjha" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/amishjha?trk=profile-badge">Linkedin</a></div>
+              
 - [Email](mailto:amjha21122002@gmail.com)
 
 ---
