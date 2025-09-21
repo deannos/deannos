@@ -1,87 +1,126 @@
-# 🚀 Amish Jha | Full-Stack Developer & System Design Enthusiast
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Amish%20Jha&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=51&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Amish%20Jha&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🚀%20Full-Stack%20Developer%20|%20🎯%20System%20Architect%20|%20⚡%20Competitive%20Programmer&descAlignY=55&descSize=18" />
 </div>
 
-<div align="center">
+<!-- Animated Profile Header -->
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&height=100&lines=%F0%9F%9A%80+Full-Stack+Developer;%E2%9A%A1+Competitive+Programming+Expert;%F0%9F%8E%AF+Top+3.33%25+on+LeetCode;%F0%9F%92%BB+React+%E2%80%A2+Django+%E2%80%A2+Golang+Specialist;%F0%9F%8F%86+Global+Rank+98+CodeChef+Achiever;%E2%9C%A8+Building+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=🌟+Welcome+to+my+Digital+Universe!;💻+Crafting+Code+%7C+Building+Dreams;🚀+From+Algorithms+to+Architecture;⚡+Top+3.33%25+LeetCode+%7C+CodeChef+Rank+98" />
   </a>
-</div>
+</p>
 
-<div align="center">
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=deannos&label=Profile%20Views&color=58A6FF&style=for-the-badge)](https://github.com/deannos)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amishjha)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/deannos)
-  [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/deannos_coder)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amjha21122002@gmail.com)
-  
-</div>
+<!-- Dynamic Social Links with Custom Styling -->
+<p align="center">
+  <a href="https://linkedin.com/in/amishjha">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>
+  <a href="https://leetcode.com/deannos">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" />
+  </a>
+  <a href="https://www.codechef.com/users/deannos_coder">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=5B4638" />
+  </a>
+  <a href="mailto:amjha21122002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+  </a>
+  <a href="https://github.com/deannos">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+  </a>
+</p>
+
+<!-- Profile Views with Animation -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deannos&label=Profile%20Views&color=00d9ff&style=for-the-badge&abbreviated=true" />
+  <img src="https://img.shields.io/github/followers/deannos?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=for-the-badge&labelColor=1a1a1a" />
+</p>
 
 ---
 
-## 🎯 About Me
+## 🎯 Professional Profile
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="60%" valign="top">
 
-```typescript
-const amishJha = {
-    name: "Amish Jha",
-    location: "Delhi, India 🇮🇳",
-    role: "Full-Stack Developer & Competitive Programmer",
-    company: "Software Engineer",
-    
-    currentFocus: [
-        "🔥 Building Scalable Backend Services with Go",
-        "⚛️ Crafting Modern React Applications", 
-        "🏗️ System Design & Architecture",
-        "📊 Data Structures & Algorithms Mastery"
-    ],
-    
-    achievements: {
-        leetcode: "Top 3.33% Globally",
-        hackerrank: "10K+ Hackos Earned",
-        codechef: "600+ Problems Conquered",
-        globalRanks: [
-            "98th in CodeChef June 2022", 
-            "157th in Starters 61",
-            "188th in Starters 80"
-        ]
-    },
-    
-    motto: "Code with passion, solve with precision, build with purpose"
+### 👨‍💻 Developer Bio
+```
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  experience: string;
+  languages: string[];
+  specialties: string[];
+  currentStatus: string;
+}
+
+const amishJha: Developer = {
+  name: "Amish Jha",
+  role: "Senior Full-Stack Developer",
+  location: "🇮🇳 Delhi, India",
+  experience: "3+ Years in Production",
+  languages: ["TypeScript", "Go", "Python", "C++", "Rust"],
+  specialties: [
+    "🚀 Microservices Architecture",
+    "⚛️ Modern Frontend Frameworks", 
+    "🏗️ System Design & Scaling",
+    "📊 Competitive Programming",
+    "☁️ Cloud Infrastructure"
+  ],
+  currentStatus: "Building the future, one commit at a time"
 };
 ```
 
-</td>
-<td width="50%">
+### 🎯 Current Focus Areas
+- 🔥 **Backend Engineering**: Golang microservices with 99.9% uptime
+- ⚛️ **Frontend Mastery**: React 18, Next.js 14, TypeScript excellence
+- 🏗️ **System Architecture**: Scalable, fault-tolerant distributed systems
+- 📈 **Performance**: Sub-100ms API responses, optimized algorithms
+- 🤖 **AI Integration**: LLM-powered applications and ML pipelines
 
-### 🚀 Quick Stats
+</td>
+<td width="40%" valign="top">
+
+### 🏆 Achievement Dashboard
 
 <div align="center">
 
-| 📊 **Metric** | 📈 **Value** |
-|:---:|:---:|
-| 🏆 **Contest Wins** | **15+** |
-| 💻 **Projects Built** | **50+** |
-| 🌟 **GitHub Stars** | **500+** |
-| 📝 **Problems Solved** | **1.8K+** |
-| ☕ **Coffee Consumed** | **∞** |
+**🎖️ Competitive Programming**
+```
+🥇 Global Rank 98 (CodeChef)
+🎯 Top 3.33% (LeetCode)
+⚡ 1800+ Problems Solved
+🏆 15+ Contest Victories
+```
+
+**💻 Development Stats**
+```
+🚀 50+ Projects Deployed
+⭐ 500+ GitHub Stars
+🔧 100+ Open Source PRs
+👥 20+ Team Collaborations
+```
+
+**📊 Impact Metrics**
+```
+📈 10M+ API Requests Handled
+⚡ 99.9% System Uptime
+🌟 10K+ Users Served
+💡 25+ Technical Solutions
+```
+
+### 🎨 Skill Proficiency
+
+| Category | Level |
+|----------|--------|
+| **Backend Development** | ████████████ 95% |
+| **Frontend Engineering** | ███████████░ 90% |
+| **System Design** | ██████████░░ 85% |
+| **DevOps & Cloud** | █████████░░░ 80% |
+| **Competitive Programming** | ████████████ 95% |
 
 </div>
-
-### 🎯 Current Mission
-> *"Building the future, one line of code at a time"*
-
-- 🔭 Working on **Scalable Microservices Architecture**
-- 🌱 Learning **Rust & System Programming**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Go, System Design**
-- ⚡ Fun fact: **I debug faster than I debug my life!**
 
 </td>
 </tr>
@@ -89,40 +128,129 @@ const amishJha = {
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🛠️ Technology Arsenal
 
 <div align="center">
 
-### 💻 **Programming Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+### 💻 Core Technologies
+<table>
+<tr>
+<td align="center" width="100">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+  <br>JavaScript
+</td>
+<td align="center" width="100">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" />
+  <br>TypeScript
+</td>
+<td align="center" width="100">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+  <br>Python
+</td>
+<td align="center" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="65" height="65" />
+  <br>Golang
+</td>
+<td align="center" width="100">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" />
+  <br>C++
+</td>
+<td align="center" width="100">
+  <img src="https://techstack-generator.vercel.app/rust-icon.svg" width="65" height="65" />
+  <br>Rust
+</td>
+</tr>
+</table>
 
-### 🎨 **Frontend Technologies**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+### 🎨 Frontend Excellence
+<table>
+<tr>
+<td align="center" width="100">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
+  <br>React
+</td>
+<td align="center" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="65" height="65" />
+  <br>Next.js
+</td>
+<td align="center" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="65" height="65" />
+  <br>Vue.js
+</td>
+<td align="center" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="65" height="65" />
+  <br>Tailwind
+</td>
+<td align="center" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="65" height="65" />
+  <br>Sass
+</td>
+<td align="center" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="65" height="65" />
+  <br>Three.js
+</td>
+</tr>
+</table>
 
-### ⚙️ **Backend & Databases**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### ⚙️ Backend & Database
+<table>
+<tr>
+<td align="center" width="100">
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" />
+  <br>Django
+</td>
+<td align="center" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="65" height="65" />
+  <br>Node.js
+</td>
+<td align="center" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="65" height="65" />
+  <br>FastAPI
+</td>
+<td align="center" width="100">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
+  <br>MySQL
+</td>
+<td align="center" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="65" height="65" />
+  <br>PostgreSQL
+</td>
+<td align="center" width="100">
+  <img src="https://techstack-generator.vercel.app/redis-icon.svg" width="65" height="65" />
+  <br>Redis
+</td>
+</tr>
+</table>
 
-### 🛠️ **Tools & Platforms**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🚀 DevOps & Cloud
+<table>
+<tr>
+<td align="center" width="100">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" />
+  <br>Docker
+</td>
+<td align="center" width="100">
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" />
+  <br>Kubernetes
+</td>
+<td align="center" width="100">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" />
+  <br>AWS
+</td>
+<td align="center" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="65" height="65" />
+  <br>GCP
+</td>
+<td align="center" width="100">
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" />
+  <br>Nginx
+</td>
+<td align="center" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="65" height="65" />
+  <br>Linux
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -131,215 +259,206 @@ const amishJha = {
 ## 📊 GitHub Analytics & Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deannos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deannos&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
+
+### 🔥 GitHub Statistics
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deannos&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deannos&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" />
+
+### ⚡ Contribution Streak
+<img src="https://github-readme-streak-stats.demolab.com/?user=deannos&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=00D9FF&sideLabels=FFFFFF&dates=8B949E" />
+
+### 📈 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deannos&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=deannos&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=8" />
+
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=deannos&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=58A6FF&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&sideLabels=C9D1D9&dates=8B949E"/>
-</div>
-
-<details>
-<summary>📈 <b>More GitHub Analytics</b></summary>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deannos&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deannos&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=7"/>
-</div>
-
-</details>
 
 ---
 
-## 🏆 Competitive Programming Journey
+## 🏆 Competitive Programming Excellence
 
 <div align="center">
 
-### 🎯 **Platform Statistics**
+### 🎯 Platform Dominance
 
-| Platform | Rank/Rating | Problems Solved | Key Achievements |
-|:--------:|:-----------:|:---------------:|:----------------:|
-| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black) | **Top 3.33%** | **600+** | Global Excellence 🌟 |
-| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white) | **3★ Coder** | **600+** | Contest Specialist 🏆 |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white) | **10K+ Hackos** | **Multiple** | Problem Solving Star ⭐ |
-| ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white) | **170/175** | **Job-A-Thon Winner** | Interview Champion 🏆 |
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-tal-revivo.png"/>
+  <br><b>LeetCode</b>
+  <br>🏆 Top 3.33%
+  <br>📊 600+ Problems
+  <br>⭐ 2000+ Rating
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/color/48/000000/chef-hat.png"/>
+  <br><b>CodeChef</b>
+  <br>🥇 Rank 98 Global
+  <br>⭐ 3★ Coder
+  <br>🔥 600+ Solutions
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/windows/48/000000/hackerrank.png"/>
+  <br><b>HackerRank</b>
+  <br>💎 10K+ Hackos
+  <br>🏅 Problem Solving
+  <br>⚡ Gold Badges
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/>
+  <br><b>GeeksforGeeks</b>
+  <br>🏆 170/175 Score
+  <br>👑 Job-A-Thon Winner
+  <br>💡 Interview Ready
+</td>
+</tr>
+</table>
 
-</div>
+### 📈 Contest Performance Timeline
 
-<details>
-<summary>🏅 <b>Contest Highlights & Achievements</b></summary>
-<br>
+```
+🥇 2022 June - CodeChef Long: Rank 98 (13.7K participants)
+🥈 2022 Oct - Starters 61: Rank 157 (15.1K participants) 
+🥉 2023 Jan - Starters 80: Rank 188 (16.5K participants)
+🏆 2022 July - Long Challenge: Rank 242 (22.5K participants)
+⚡ 15+ Top 500 Global Rankings achieved
+```
+
+### 🎯 Problem Solving Mastery
 
 <div align="center">
-
-### 🏅 **Notable Contest Performances**
-
-```
-🥇 Global Rank 98  - CodeChef June Long Challenge 2022 (13.7K participants)
-🥈 Global Rank 157 - Starters 61 CodeChef 2022 (15.1K participants)  
-🥉 Global Rank 188 - Starters 80 CodeChef 2023 (16.5K participants)
-🏆 Global Rank 242 - July Long Challenge 2022 (22.5K participants)
-⚡ Under 500 Rank achieved 15+ times in CodeChef contests
-```
-
-### 📈 **Progress Timeline**
-
-```mermaid
-gitgraph
-    commit id: "Started CP Journey"
-    commit id: "First Contest Win"
-    commit id: "LeetCode Top 5%"
-    commit id: "CodeChef 3★"
-    commit id: "Global Rank 98"
-    commit id: "10K+ Problems"
-```
-
-### 🎯 **Problem Solving Distribution**
-
-| Category | Problems Solved | Proficiency |
-|:--------:|:---------------:|:-----------:|
-| **Arrays & Strings** | 400+ | ████████████ 100% |
-| **Dynamic Programming** | 250+ | ██████████░░ 85% |
-| **Graph Algorithms** | 200+ | █████████░░░ 80% |
-| **Tree & BST** | 180+ | ████████░░░░ 75% |
-| **System Design** | 50+ | ██████░░░░░░ 60% |
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=deannos&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 </div>
 
-</details>
+</div>
 
 ---
 
 ## 🌟 Featured Projects & Open Source
 
 <div align="center">
-  <a href="https://github.com/deannos/nebula-notifications">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deannos&repo=nebula-notifications&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB" />
-  </a>
-  <a href="https://github.com/deannos/portfolio-v2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deannos&repo=portfolio-v2&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB" />
-  </a>
-</div>
 
-<details>
-<summary>🚀 <b>More Projects & Contributions</b></summary>
-<br>
+### 🚀 Pinned Repositories
+<a href="https://github.com/deannos/nebula-notifications">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deannos&repo=nebula-notifications&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
+</a>
+<a href="https://github.com/deannos/portfolio-v2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deannos&repo=portfolio-v2&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
+</a>
 
-### 💼 **Professional Projects**
+### 💼 Project Showcase
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-#### 🔥 **Nebula Notifications**
-- **Tech Stack**: Go, Redis, WebSocket, Docker
-- **Features**: Real-time notifications, High throughput
-- **Impact**: 10K+ concurrent connections
-- **Status**: Production Ready ✅
+### 🔥 Nebula Notifications Engine
+**Real-time Notification Service**
 
-#### ⚛️ **Modern Portfolio V2**
-- **Tech Stack**: React, TypeScript, Three.js
-- **Features**: 3D animations, Responsive design
-- **Performance**: 95+ Lighthouse score
-- **Status**: Live & Optimized 🚀
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socketdotio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**📊 Performance Metrics:**
+- ⚡ 10K+ concurrent connections
+- 🚀 Sub-10ms message delivery
+- 📈 99.9% uptime SLA
+- 🔄 Auto-scaling architecture
+
+**🌟 Key Features:**
+- Multi-protocol support (HTTP/WebSocket)
+- JWT authentication & authorization
+- Redis-backed message persistence
+- Kubernetes-ready deployment
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-#### 🏗️ **Distributed Cache System**
-- **Tech Stack**: Go, Consistent Hashing, Redis Protocol
-- **Features**: Auto-scaling, Fault tolerance
-- **Performance**: Sub-millisecond latency
-- **Status**: Open Source 🌟
+### ⚛️ Modern Portfolio Experience
+**Interactive 3D Portfolio Website**
 
-#### 📊 **Analytics Dashboard**
-- **Tech Stack**: Vue.js, Django, PostgreSQL
-- **Features**: Real-time charts, Data visualization
-- **Users**: 1000+ daily active users
-- **Status**: Enterprise Ready 💼
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**📊 Performance Metrics:**
+- ⚡ 95+ Lighthouse score
+- 🎨 Interactive 3D animations
+- 📱 Fully responsive design
+- 🔥 Optimized bundle size
+
+**🌟 Key Features:**
+- GPU-accelerated 3D graphics
+- Smooth scroll animations
+- Dark/light theme toggle
+- SEO-optimized React 18
 
 </td>
 </tr>
 </table>
 
-### 🌟 **Open Source Contributions**
-
-- 🔧 **50+ Pull Requests** merged across various repositories
-- 🐛 **100+ Issues** resolved in community projects
-- 📚 **Technical Documentation** for 10+ open source projects
-- 🎯 **Maintainer** of 3 popular npm packages
-
-</details>
+</div>
 
 ---
 
-## 💡 Current Focus & Learning Path
+## 💡 What I'm Working On
 
 <div align="center">
 
-### 🎯 **2025 Development Roadmap**
-
-```mermaid
-graph TD
-    A[🎯 2025 Goals] --> B[Technical Mastery]
-    A --> C[Career Growth]
-    A --> D[Community Impact]
-    
-    B --> E[Advanced System Design]
-    B --> F[Golang Expertise] 
-    B --> G[Cloud Architecture]
-    
-    C --> H[Senior Developer Role]
-    C --> I[Technical Leadership]
-    C --> J[Mentoring Others]
-    
-    D --> K[Open Source Contributions]
-    D --> L[Tech Content Creation]
-    D --> M[Conference Speaking]
-    
-    style A fill:#58A6FF,stroke:#1F6FEB,color:#000
-    style B fill:#39D353,stroke:#26A641,color:#000
-    style C fill:#FFA116,stroke:#FB8500,color:#000
-    style D fill:#DA3633,stroke:#CF222E,color:#fff
-```
-
-</div>
+### 🎯 Current Focus (2025)
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" align="center">
 
-### 🔭 **Currently Working On**
-- 🚀 Scalable Microservices with Go
-- ⚡ System Design Mastery
-- 📱 Modern Web Applications
-- 🧠 Advanced Algorithms
-
-</td>
-<td width="33%">
-
-### 🌱 **Learning & Exploring**
-- 🦀 Rust Programming
-- ☸️ Kubernetes & DevOps
-- 🤖 Machine Learning Integration
-- 📈 Distributed Systems
+### 🔬 Research & Learning
+- 🦀 **Rust Programming**
+  - Systems programming
+  - WebAssembly applications
+- 🤖 **AI/ML Integration**
+  - LLM applications
+  - Computer vision projects
+- ☁️ **Cloud Architecture**
+  - Serverless computing
+  - Edge computing solutions
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
-### 🎯 **Goals for 2025**
-- 🏆 Reach Expert level in CP
-- 🌟 Contribute to major OSS projects
-- 📝 Write technical blog posts
-- 🎤 Speak at tech conferences
+### 🚧 Active Projects
+- 🔥 **Distributed Cache System**
+  - Consistent hashing
+  - Sub-ms latency
+- 📊 **Analytics Platform**
+  - Real-time dashboards
+  - Data visualization
+- 🌐 **API Gateway**
+  - Rate limiting
+  - Load balancing
+
+</td>
+<td width="33%" align="center">
+
+### 🎯 Goals & Aspirations
+- 🏆 **Competitive Programming**
+  - CodeChef 4★ rating
+  - ICPC participation
+- 🌟 **Open Source**
+  - Major project contributions
+  - Package maintainership
+- 🎤 **Community Impact**
+  - Technical blog writing
+  - Conference speaking
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -347,79 +466,70 @@ graph TD
 
 <div align="center">
 
-### 📫 **Get In Touch**
-
-[![Email](https://img.shields.io/badge/Email-amjha21122002@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amjha21122002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amishjha)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amishjha)
-
-### 🌟 **Open For Opportunities**
-
-<table align="center">
-<tr>
-<td align="center">💼</td>
-<td align="center">🤝</td>
-<td align="center">📚</td>
-<td align="center">🎯</td>
-<td align="center">🎤</td>
-</tr>
-<tr>
-<td align="center"><b>Full-Stack<br>Development</b></td>
-<td align="center"><b>Open Source<br>Collaborations</b></td>
-<td align="center"><b>Competitive Programming<br>Mentorship</b></td>
-<td align="center"><b>Technical<br>Consulting</b></td>
-<td align="center"><b>Speaking at<br>Tech Events</b></td>
-</tr>
-</table>
-
-**📍 Based in Delhi, India** | **Available for**: Remote Work • Freelance Projects • Technical Consultations
-
-</div>
-
----
-
-## ⚡ Fun Facts & Personal Touch
-
-<div align="center">
+### 📬 Get In Touch
 
 <table>
 <tr>
-<td width="50%">
-
-### 🎮 **About Me Beyond Code**
-
-- 🎯 I treat debugging like a puzzle game - the harder, the more fun!
-- 🏏 Weekend cricket enthusiast when not coding
-- ☕ Coffee-driven developer (5+ cups daily!)
-- 🌟 Believe in the power of consistent daily progress
-- 🎵 Code better with lo-fi music in the background
-- 📚 Always reading tech blogs and research papers
-
+<td align="center">
+  <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
+  <br><b>Professional</b>
+  <br><a href="https://linkedin.com/in/amishjha">LinkedIn Profile</a>
 </td>
-<td width="50%">
-
-### 📈 **Daily Routine**
-
-```
-06:00 ☕ Coffee + LeetCode Daily Challenge
-08:00 💻 Deep Work - Core Development
-12:00 🍽️ Lunch + Tech Podcasts
-14:00 🔧 Code Reviews & Team Collaboration
-17:00 📚 Learning New Technologies
-19:00 🏏 Sports / Personal Time
-21:00 📝 Side Projects & Open Source
-23:00 😴 Sleep (Planning tomorrow's code)
-```
-
+<td align="center">
+  <img src="https://img.icons8.com/fluency/48/000000/gmail.png"/>
+  <br><b>Direct Contact</b>
+  <br><a href="mailto:amjha21122002@gmail.com">Email Me</a>
+</td>
+<td align="center">
+  <img src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
+  <br><b>Social Updates</b>
+  <br><a href="https://twitter.com/amishjha">Follow Me</a>
+</td>
+<td align="center">
+  <img src="https://img.icons8.com/fluency/48/000000/domain.png"/>
+  <br><b>Portfolio</b>
+  <br><a href="#">Visit Website</a>
 </td>
 </tr>
 </table>
 
-### 💭 **Random Dev Quote**
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+### 🌟 Available For
 
-### 😄 **Developer Humor**
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dark" />
+<div align="center">
+
+| 💼 **Full-Stack Development** | 🤝 **Open Source Collaboration** | 📚 **Mentorship & Teaching** | 🎯 **Technical Consulting** |
+|:---:|:---:|:---:|:---:|
+| Modern web applications | Contributing to projects | Code reviews & guidance | Architecture & performance |
+| API design & development | Creating useful packages | Interview preparation | Technology stack decisions |
+| System architecture | Bug fixes & features | Career development | Scalability solutions |
+
+</div>
+
+**📍 Based in Delhi, India** • **Open to Remote Opportunities Worldwide**
+
+</div>
+
+---
+
+## 🎨 Fun Zone
+
+<div align="center">
+
+### 😄 Developer Humor
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" />
+
+### 💭 Daily Inspiration
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" />
+
+### 🎵 Coding Soundtrack
+Currently listening to: **Lo-fi Hip Hop Radio** 🎧
+
+### ☕ Coffee Counter
+```
+Today: ████████ 8 cups
+This Week: ██████████████████████████████████████████████████ 50 cups
+This Month: ████████████████████████████████████████████████████████████████████████████████████████████████████████ 200 cups
+```
 
 </div>
 
@@ -427,26 +537,43 @@ graph TD
 
 <div align="center">
 
-### 🌟 **"The best way to predict the future is to invent it."** - *Alan Kay*
+### 🌟 *"The future belongs to those who code it into existence."*
 
 <br>
 
-**Thanks for visiting my profile! ⭐ Star some repositories if you find them interesting!**
+**Thank you for visiting my digital space!** ⭐  
+*If you find my work interesting, consider starring some repositories!*
 
 <br>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=deannos&color=58A6FF&style=flat&label=Profile%20Visitors)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-January%202025-brightgreen?style=flat)
-![Version](https://img.shields.io/badge/Version-3.0-blue?style=flat)
+<table>
+<tr>
+<td align="center">
+  <img src="https://komarev.com/ghpvc/?username=deannos&color=00d9ff&style=flat" />
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Last%20Updated-September%202025-brightgreen?style=flat" />
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Version-4.0%20Ultra-blue?style=flat" />
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20&%20☕-red?style=flat" />
+</td>
+</tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 </div>
 
-<!-- 
-🚀 Profile Metadata
-📅 Last Updated: January 2025
-📝 Version: 3.0 - Professional GitHub Profile with Advanced Markdown
-👨‍💻 Created by: Amish Jha
-🎯 Purpose: Showcase skills, achievements, and personality in a professional manner
+<!-- Profile Metadata -->
+<!--
+🚀 GitHub Profile v1.0.0
+👨‍💻 Created with passion by Amish Jha
+📅 Last updated: September 2025
+
 -->
+```
+
+
