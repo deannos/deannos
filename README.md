@@ -1,4 +1,4 @@
-# 🚀 Amish Jha | Full-Stack Developer & Competitive Programming Expert
+# 🚀 Amish Jha | Full-Stack Developer & System Design Enthusiast
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Amish%20Jha&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=51&descSize=20" />
