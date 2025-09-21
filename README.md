@@ -2,12 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Amish%20Jha&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🚀%20Full-Stack%20Developer%20|%20🎯%20System%20Architect%20|%20⚡%20Competitive%20Programmer&descAlignY=55&descSize=18" />
 </div>
 
-<!-- Animated Profile Header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=🌟+Welcome+to+my+Digital+Universe!;💻+Crafting+Code+%7C+Building+Dreams;🚀+From+Algorithms+to+Architecture;⚡+Top+3.33%25+LeetCode+%7C+CodeChef+Rank+98" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🌟+Welcome+to+my+Digital+Universe!;💻+Crafting+Code+%7C+Building+Dreams;🚀+From+Algorithms+to+Architecture;⚡+Top+3.33%25+LeetCode+%7C+CodeChef+Rank+98" alt="Typing SVG" />
   </a>
 </p>
+
 
 <!-- Dynamic Social Links with Custom Styling -->
 <p align="center">
