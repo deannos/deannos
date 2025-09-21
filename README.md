@@ -1,6 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Amish%20Jha&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🚀%20Full-Stack%20Developer%20|%20🎯%20System%20Architect%20|%20⚡%20Competitive%20Programmer&descAlignY=55&descSize=18" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=320&width=1200&text=Amish%20Jha&fontSize=90&fontColor=ffffff&color=gradient&customColorList=4,12,22,32,42&animation=twinkling&fontAlignY=40&desc=🚀%20Full-Stack%20Developer%20|%20🎯%20System%20Architect%20|%20⚡%20Competitive%20Programmer&descAlignY=70&descSize=20&descAlign=55&stroke=2&strokeColor=000000" 
+    alt="Amish Jha Banner" 
+    style="width:100%; max-width:1200px; display:block;"
+  />
 </div>
+
+
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -563,9 +570,18 @@ This Month: ██████████████████████�
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+ <div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&width=1200&color=gradient&customColorList=6,11,20,30,40&animation=twinkling&section=footer" 
+    alt="Footer Banner" 
+    style="width:100%; max-width:1200px; display:block;"
+  />
+</div>
+
 
 </div>
+
+
 
 <!-- Profile Metadata -->
 <!--
