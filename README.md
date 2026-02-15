@@ -51,20 +51,43 @@ Focused on clean architecture, performance, and production readiness.
 <tr>
 <td width="50%" valign="top">
 
-### Engineering
-- API design (REST), background processing, caching
-- Databases: schema design, query tuning, migrations
-- Reliability: retries, idempotency, rate limits
-- Testing strategies: unit/integration, CI quality gates
+### Backend & Systems Engineering
+- **API design & contracts**: REST, pagination/filtering, versioning, OpenAPI-first mindset
+- **Performance & throughput**: batching, pooling, concurrency patterns (workers/channels), hot-path profiling
+- **Reliability by default**: timeouts, retries with backoff, idempotency, circuit-breaking patterns, DLQ strategies
+- **Data-layer strength**: schema design, indexing, query tuning, transactions, migrations, consistency tradeoffs
+- **Scalable async**: event-driven patterns, Kafka producers/consumers, backpressure-aware pipelines
 
 </td>
 <td width="50%" valign="top">
 
-### Production & Scale
-- Docker-first development
-- Kubernetes fundamentals and deployment workflows
-- Reverse proxying & routing with Nginx
-- Logging/metrics mindset, incident-ready systems
+### Production, DevOps & Ownership
+- **Production readiness**: structured logging, metrics, tracing mindset, SLO/SLA awareness
+- **Observability**: Prometheus metrics, actionable dashboards/alerts, debug-friendly instrumentation
+- **Cloud-native workflow**: Dockerized services, config via env, secrets hygiene, reproducible local stacks
+- **Deployment discipline**: CI checks, automated builds, release tagging, safe rollouts (health checks, readiness)
+- **Operational maturity**: incident-first thinking, runbooks, graceful shutdowns, resource limits
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Code Quality & Architecture
+- **Clean architecture**: separation of concerns (domain/service/repo/handler), dependency boundaries
+- **Testing culture**: unit + integration testing, contract tests where needed, TDD when it fits
+- **Maintainability**: small composable modules, consistent naming, predictable folder structure
+- **Security basics**: input validation, least privilege, safe defaults, secrets handling, rate limiting
+
+</td>
+<td width="50%" valign="top">
+
+### Collaboration & Execution
+- **Clear communication**: docs that engineers actually read, design notes, tradeoff-driven decisions
+- **Fast delivery without chaos**: scoped milestones, incremental releases, feedback loops
+- **Ownership mindset**: from “works on my machine” → “works in production”
+- **Pragmatic engineering**: chooses simplest approach that meets reliability/scale requirements
 
 </td>
 </tr>
