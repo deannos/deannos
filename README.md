@@ -1,22 +1,21 @@
 <!-- README.md -->
 <!--
 Design goals:
-- Professional + long-form, but scannable
+- Professional, long-form, scannable
 - Consistent alignment, spacing, visual rhythm
 - Minimal noise, maximum signal
 -->
 
 <div align="center">
 
-# 👋 Hi, I’m Amish Jha
-### Software Engineer • Backend/Systems • Cloud/DevOps • Problem Solver
+# Amish Jha
+### Software Engineer | Backend & Systems Architecture | Cloud/DevOps
 
 <p>
-I build reliable backends, scalable systems, and developer-friendly tools.
-Focused on clean architecture, performance, and production readiness.
+I build reliable backends, scalable event-driven pipelines, and developer-friendly tools.
+Focused on clean architecture, performance, observability, and production readiness.
 </p>
 
-<!-- Quick links -->
 <p>
   <a href="https://linkedin.com/in/amishjha"><strong>LinkedIn</strong></a> •
   <a href="https://github.com/deannos"><strong>GitHub</strong></a> •
@@ -25,48 +24,47 @@ Focused on clean architecture, performance, and production readiness.
   <a href="mailto:amjha21122002@gmail.com"><strong>Email</strong></a>
 </p>
 
-<!-- Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=deannos&label=Profile%20Views&color=0ea5e9&style=for-the-badge&abbreviated=true" />
   <img src="https://img.shields.io/github/followers/deannos?label=Followers&style=for-the-badge&color=0ea5e9&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Availability-Open%20to%20Work-22c55e?style=for-the-badge&labelColor=111827" />
 </p>
 
 </div>
 
 ---
 
-## 🧭 About Me
+## About
 
-- 🔭 I work on **backend engineering**, **systems**, and **cloud-native** deployments.
-- 🧠 I care about **performance**, **clean APIs**, **observability**, and **great developer experience**.
-- ⚙️ Comfortable owning work end-to-end: design → implementation → deployment → monitoring.
-- 🧩 Strong problem-solving mindset (DSA + real-world engineering tradeoffs).
+- Backend engineering, systems, and cloud-native deployments
+- Strong focus on performance, API design, observability, and developer experience
+- Comfortable owning work end-to-end: design → implementation → deployment → monitoring
+- Problem-solving mindset: algorithmic rigor with real-world tradeoffs
 
 ---
 
-## ✅ What I Bring to a Team
+## What I Bring to a Team
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Backend & Systems Engineering
-- **API design & contracts**: REST, pagination/filtering, versioning, OpenAPI-first mindset
-- **Performance & throughput**: batching, pooling, concurrency patterns (workers/channels), hot-path profiling
-- **Reliability by default**: timeouts, retries with backoff, idempotency, circuit-breaking patterns, DLQ strategies
-- **Data-layer strength**: schema design, indexing, query tuning, transactions, migrations, consistency tradeoffs
-- **Scalable async**: event-driven patterns, Kafka producers/consumers, backpressure-aware pipelines
+### Backend and Systems Engineering
+- API design: REST, pagination/filtering, versioning, predictable contracts
+- Performance: batching, pooling, concurrency (workers/channels), profiling
+- Reliability: timeouts, retries/backoff, idempotency, DLQs, backpressure
+- Data layer: schema design, indexing, query tuning, transactions, migrations
+- Event-driven systems: Kafka ingestion patterns, producer/consumer fundamentals
 
 </td>
 <td width="50%" valign="top">
 
-### Production, DevOps & Ownership
-- **Production readiness**: structured logging, metrics, tracing mindset, SLO/SLA awareness
-- **Observability**: Prometheus metrics, actionable dashboards/alerts, debug-friendly instrumentation
-- **Cloud-native workflow**: Dockerized services, config via env, secrets hygiene, reproducible local stacks
-- **Deployment discipline**: CI checks, automated builds, release tagging, safe rollouts (health checks, readiness)
-- **Operational maturity**: incident-first thinking, runbooks, graceful shutdowns, resource limits
+### Production and DevOps Ownership
+- Production mindset: structured logs, metrics-first thinking, SLO awareness
+- Observability: Prometheus metrics, actionable instrumentation, debugging support
+- Cloud-native workflow: Dockerized services, env-based config, local reproducibility
+- Deployment discipline: CI checks, automated builds, safe rollouts, health checks
+- Operations: graceful shutdowns, resource limits, incident-ready execution
 
 </td>
 </tr>
@@ -74,20 +72,20 @@ Focused on clean architecture, performance, and production readiness.
 <tr>
 <td width="50%" valign="top">
 
-### Code Quality & Architecture
-- **Clean architecture**: separation of concerns (domain/service/repo/handler), dependency boundaries
-- **Testing culture**: unit + integration testing, contract tests where needed, TDD when it fits
-- **Maintainability**: small composable modules, consistent naming, predictable folder structure
-- **Security basics**: input validation, least privilege, safe defaults, secrets handling, rate limiting
+### Code Quality and Architecture
+- Separation of concerns: domain/service/repo/handler boundaries
+- Testing: unit + integration, contract checks where useful, pragmatic TDD
+- Maintainability: composable modules, consistent naming, clean structure
+- Security basics: input validation, least privilege, safe defaults, rate limiting
 
 </td>
 <td width="50%" valign="top">
 
-### Collaboration & Execution
-- **Clear communication**: docs that engineers actually read, design notes, tradeoff-driven decisions
-- **Fast delivery without chaos**: scoped milestones, incremental releases, feedback loops
-- **Ownership mindset**: from “works on my machine” → “works in production”
-- **Pragmatic engineering**: chooses simplest approach that meets reliability/scale requirements
+### Collaboration and Execution
+- Clear written communication: concise docs, design notes, tradeoff clarity
+- Execution: scoped milestones, incremental delivery, feedback loops
+- Ownership: from development to production monitoring and iteration
+- Pragmatism: simplest solution that meets reliability and scale needs
 
 </td>
 </tr>
@@ -95,11 +93,11 @@ Focused on clean architecture, performance, and production readiness.
 
 ---
 
-## 🧰 Technology Arsenal
+## Technology
 
 <div align="center">
 
-### 💻 Core Languages
+### Languages
 <table>
 <tr>
 <td align="center" width="120">
@@ -116,7 +114,7 @@ Focused on clean architecture, performance, and production readiness.
 </td>
 <td align="center" width="120">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="60" height="60" />
-  <br><strong>Golang</strong>
+  <br><strong>Go</strong>
 </td>
 <td align="center" width="120">
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60" height="60" />
@@ -129,7 +127,7 @@ Focused on clean architecture, performance, and production readiness.
 </tr>
 </table>
 
-### ⚙️ Backend & Databases
+### Backend and Databases
 <table>
 <tr>
 <td align="center" width="120">
@@ -159,7 +157,7 @@ Focused on clean architecture, performance, and production readiness.
 </tr>
 </table>
 
-### ☁️ DevOps & Cloud
+### DevOps and Cloud
 <table>
 <tr>
 <td align="center" width="120">
@@ -193,46 +191,46 @@ Focused on clean architecture, performance, and production readiness.
 
 ---
 
-## 🧪 Engineering Principles I Follow
+## Engineering Principles
 
-- **Clarity beats cleverness** — readable code scales better than “smart” code.
-- **Measure before optimizing** — profiling > guessing.
-- **Build for failure** — timeouts, retries, idempotency, and graceful degradation.
-- **Small, composable modules** — easy to test, easier to maintain.
-- **Make it observable** — logs/metrics/traces aren’t optional in production.
+- Clarity beats cleverness
+- Measure before optimizing
+- Build for failure: timeouts, retries, idempotency, graceful degradation
+- Small composable modules, strong boundaries
+- Observability is a production requirement
 
 ---
 
-## 📌 Featured Work (Systems/Scale → Tools/APIs)
+## Featured Work (Systems/Scale → Tools/APIs)
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 Injection Go Pipeline — High-Throughput Kafka Ingestion (Go)
-HTTP → Kafka ingestion service built for **1M–3M events/min** with bounded backpressure.
+### Injection Go Pipeline — High-Throughput Kafka Ingestion (Go)
+HTTP → Kafka ingestion pipeline designed for high throughput with bounded backpressure.
 
 **Highlights**
-- Batching + retries + DLQ support for reliability under load
-- Worker/channel pipeline design for controlled throughput
-- Includes load generation + end-to-end throughput validation
+- Batching, retries, DLQ strategy for reliability under load
+- Worker/channel pipeline for controlled concurrency and throughput
+- Includes load generation and throughput validation
 
 **Tech**: Go • Kafka • Backpressure • Batching • Docker Compose  
-➡️ Repo: https://github.com/deannos/injection-go-pipeline.git
+Repo: https://github.com/deannos/injection-go-pipeline.git
 
 </td>
 <td width="50%" valign="top">
 
-### 🔹 Kafka Injector — HTTP → Kafka + Prometheus Observability (Go)
-Low-latency HTTP → Kafka injector with **backpressure safety** and first-class metrics.
+### Kafka Injector — HTTP to Kafka with Prometheus Metrics (Go)
+Low-latency HTTP → Kafka injector focused on safe ingestion under burst traffic.
 
 **Highlights**
-- Built for throughput scaling (design/HLD included)
-- Prometheus metrics endpoint + local stack via docker-compose
-- Focus on batching + safety under burst traffic
+- Prometheus metrics endpoint for operational visibility
+- Local stack via docker-compose for reproducible runs
+- Batching and safety-first design for sustained throughput
 
-**Tech**: Go • Kafka • Prometheus • Docker Compose • Systems Design  
-➡️ Repo: https://github.com/deannos/kafka-injector.git
+**Tech**: Go • Kafka • Prometheus • Docker Compose  
+Repo: https://github.com/deannos/kafka-injector.git
 
 </td>
 </tr>
@@ -240,30 +238,30 @@ Low-latency HTTP → Kafka injector with **backpressure safety** and first-class
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 Email Checker Tool — DNS Email Infrastructure Auditor (Go)
-A production-grade CLI to validate email domain DNS setup at scale (MX, SPF, DMARC).
+### Email Checker Tool — DNS Email Configuration Auditor (Go)
+CLI to audit domain email DNS configuration (MX, SPF, DMARC) at scale.
 
 **Highlights**
-- Concurrent worker pool + intelligent global rate limiting
-- Streaming CSV input/output for large datasets (low memory footprint)
-- Timeout-safe DNS lookups + graceful shutdown handling
+- Concurrent worker pool with global rate limiting
+- Streaming CSV processing for large datasets
+- Timeout-safe DNS lookups and graceful shutdown behavior
 
-**Tech**: Go • DNS • CLI • Concurrency • CSV Streaming  
-➡️ Repo: https://github.com/deannos/email-checker-tool.git
+**Tech**: Go • DNS • CLI • Concurrency • CSV  
+Repo: https://github.com/deannos/email-checker-tool.git
 
 </td>
 <td width="50%" valign="top">
 
-### 🔹 Salary Management API — Clean Architecture + TDD (Go)
-Robust HTTP API to manage employees, compute salary (country-specific tax rules), and serve salary metrics.
+### Salary Management API — Clean Architecture API (Go)
+HTTP API for employee salary workflows with clean layering and testing discipline.
 
 **Highlights**
-- Layered architecture: Domain → Repository → Service → Handler
-- SQLite persistence with clean separation of concerns
-- Endpoints: create employee, fetch employee, salary calculation, metrics by country
+- Domain/service/repository/handler separation
+- SQLite persistence with clear boundaries
+- CRUD and salary-related endpoints with predictable contracts
 
-**Tech**: Go • net/http • SQLite • Testing (TDD mindset)  
-➡️ Repo: https://github.com/deannos/salary-management-api-go.git
+**Tech**: Go • net/http • SQLite • Testing  
+Repo: https://github.com/deannos/salary-management-api-go.git
 
 </td>
 </tr>
@@ -271,18 +269,29 @@ Robust HTTP API to manage employees, compute salary (country-specific tax rules)
 
 ---
 
-## 📈 GitHub Stats (Clean Layout)
+## GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=deannos&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deannos&layout=compact&hide_border=true&langs_count=8" />
+<img
+  height="160"
+  alt="GitHub Stats"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deannos&theme=github"
+/>
+
+<img
+  height="160"
+  alt="Top Languages"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deannos&theme=github"
+/>
 
 </div>
 
+
+
 ---
 
-## 🧩 Problem Solving
+## Problem Solving
 
 <div align="center">
 
@@ -295,32 +304,19 @@ Robust HTTP API to manage employees, compute salary (country-specific tax rules)
 
 </div>
 
-- I practice DSA to improve **reasoning, tradeoffs, and implementation speed**.
-- Preference: clean solutions, strong edge-case handling, and performance awareness.
+- I practice DSA to sharpen reasoning, edge-case handling, and implementation speed.
 
 ---
 
-## 🎯 Currently Exploring (Optional)
+## Currently Exploring
 
-- Distributed systems fundamentals (queues, consensus, caching strategies)
+- Distributed systems fundamentals (queues, caching strategies, consistency)
 - Backend performance tuning and profiling
-- Better observability patterns (structured logs, metrics-first thinking)
+- Better observability patterns (structured logs, metrics-first)
 
 ---
 
-## 🎨 Fun Zone (Light, still professional)
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" />
-<br/>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" />
-
-</div>
-
----
-
-## 🤝 Let’s Connect
+## Contact
 
 <div align="center">
 
@@ -330,11 +326,5 @@ Robust HTTP API to manage employees, compute salary (country-specific tax rules)
 <a href="https://linkedin.com/in/amishjha">
   <img src="https://img.shields.io/badge/LinkedIn-amishjha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-</div>
-
-<div align="center">
-
-### 🌟 “The future belongs to those who code it into existence.”
 
 </div>
