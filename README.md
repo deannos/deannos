@@ -1,127 +1,167 @@
-
-<!-- Dynamic Social Links with Custom Styling -->
-<!-- <p align="center">
-  <a href="https://linkedin.com/in/amishjha">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
-  </a>
-  <a href="https://leetcode.com/deannos">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" />
-  </a>
-  <a href="https://www.codechef.com/users/deannos_coder">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=5B4638" />
-  </a>
-  <a href="mailto:amjha21122002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
-  </a>
-  <a href="https://github.com/deannos">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
-  </a>
-</p> -->
-
-<!-- Profile Views with Animation -->
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deannos&label=Profile%20Views&color=00d9ff&style=for-the-badge&abbreviated=true" />
-  <img src="https://img.shields.io/github/followers/deannos?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=for-the-badge&labelColor=1a1a1a" />
-</p> -->
-
----
-
-
-
-## 🛠️ Technology Arsenal
+<!-- README.md -->
+<!--
+Design goals:
+- Professional + long-form, but scannable
+- Consistent alignment, spacing, visual rhythm
+- Minimal noise, maximum signal
+-->
 
 <div align="center">
 
-### 💻 Core Technologies
+# 👋 Hi, I’m Amish Jha
+### Software Engineer • Backend/Systems • Cloud/DevOps • Problem Solver
+
+<p>
+I build reliable backends, scalable systems, and developer-friendly tools.
+Focused on clean architecture, performance, and production readiness.
+</p>
+
+<!-- Quick links -->
+<p>
+  <a href="https://linkedin.com/in/amishjha"><strong>LinkedIn</strong></a> •
+  <a href="https://github.com/deannos"><strong>GitHub</strong></a> •
+  <a href="https://leetcode.com/deannos"><strong>LeetCode</strong></a> •
+  <a href="https://www.codechef.com/users/deannos_coder"><strong>CodeChef</strong></a> •
+  <a href="mailto:amjha21122002@gmail.com"><strong>Email</strong></a>
+</p>
+
+<!-- Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=deannos&label=Profile%20Views&color=0ea5e9&style=for-the-badge&abbreviated=true" />
+  <img src="https://img.shields.io/github/followers/deannos?label=Followers&style=for-the-badge&color=0ea5e9&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&labelColor=111827" />
+</p>
+
+</div>
+
+---
+
+## 🧭 About Me
+
+- 🔭 I work on **backend engineering**, **systems**, and **cloud-native** deployments.
+- 🧠 I care about **performance**, **clean APIs**, **observability**, and **great developer experience**.
+- ⚙️ Comfortable owning work end-to-end: design → implementation → deployment → monitoring.
+- 🧩 Strong problem-solving mindset (DSA + real-world engineering tradeoffs).
+
+---
+
+## ✅ What I Bring to a Team
+
 <table>
 <tr>
-<td align="center" width="100">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
-  <br>JavaScript
+<td width="50%" valign="top">
+
+### Engineering
+- API design (REST), background processing, caching
+- Databases: schema design, query tuning, migrations
+- Reliability: retries, idempotency, rate limits
+- Testing strategies: unit/integration, CI quality gates
+
 </td>
-<td align="center" width="100">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" />
-  <br>TypeScript
-</td>
-<td align="center" width="100">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
-  <br>Python
-</td>
-<td align="center" width="100">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="65" height="65" />
-  <br>Golang
-</td>
-<td align="center" width="100">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" />
-  <br>C++
-</td>
-<td align="center" width="100">
-  <img src="https://techstack-generator.vercel.app/rust-icon.svg" width="65" height="65" />
-  <br>Rust
+<td width="50%" valign="top">
+
+### Production & Scale
+- Docker-first development
+- Kubernetes fundamentals and deployment workflows
+- Reverse proxying & routing with Nginx
+- Logging/metrics mindset, incident-ready systems
+
 </td>
 </tr>
 </table>
 
+---
 
+## 🧰 Technology Arsenal
 
+<div align="center">
 
-### ⚙️ Backend & Database
+### 💻 Core Languages
 <table>
 <tr>
-<td align="center" width="100">
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" />
-  <br>Django
+<td align="center" width="120">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" />
+  <br><strong>JavaScript</strong>
 </td>
-<td align="center" width="100">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="65" height="65" />
-  <br>Node.js
+<td align="center" width="120">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" height="60" />
+  <br><strong>TypeScript</strong>
 </td>
-<td align="center" width="100">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="65" height="65" />
-  <br>FastAPI
+<td align="center" width="120">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" />
+  <br><strong>Python</strong>
 </td>
-<td align="center" width="100">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
-  <br>MySQL
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="60" height="60" />
+  <br><strong>Golang</strong>
 </td>
-<td align="center" width="100">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="65" height="65" />
-  <br>PostgreSQL
+<td align="center" width="120">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60" height="60" />
+  <br><strong>C++</strong>
 </td>
-<td align="center" width="100">
-  <img src="https://techstack-generator.vercel.app/redis-icon.svg" width="65" height="65" />
-  <br>Redis
+<td align="center" width="120">
+  <img src="https://techstack-generator.vercel.app/rust-icon.svg" width="60" height="60" />
+  <br><strong>Rust</strong>
 </td>
 </tr>
 </table>
 
-### 🚀 DevOps & Cloud
+### ⚙️ Backend & Databases
 <table>
 <tr>
-<td align="center" width="100">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" />
-  <br>Docker
+<td align="center" width="120">
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="60" height="60" />
+  <br><strong>Django</strong>
 </td>
-<td align="center" width="100">
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" />
-  <br>Kubernetes
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" />
+  <br><strong>Node.js</strong>
 </td>
-<td align="center" width="100">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" />
-  <br>AWS
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="60" height="60" />
+  <br><strong>FastAPI</strong>
 </td>
-<td align="center" width="100">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="65" height="65" />
-  <br>GCP
+<td align="center" width="120">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" height="60" />
+  <br><strong>MySQL</strong>
 </td>
-<td align="center" width="100">
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" />
-  <br>Nginx
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" height="60" />
+  <br><strong>PostgreSQL</strong>
 </td>
-<td align="center" width="100">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="65" height="65" />
-  <br>Linux
+<td align="center" width="120">
+  <img src="https://techstack-generator.vercel.app/redis-icon.svg" width="60" height="60" />
+  <br><strong>Redis</strong>
+</td>
+</tr>
+</table>
+
+### ☁️ DevOps & Cloud
+<table>
+<tr>
+<td align="center" width="120">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60" />
+  <br><strong>Docker</strong>
+</td>
+<td align="center" width="120">
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="60" height="60" />
+  <br><strong>Kubernetes</strong>
+</td>
+<td align="center" width="120">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" height="60" />
+  <br><strong>AWS</strong>
+</td>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="60" height="60" />
+  <br><strong>GCP</strong>
+</td>
+<td align="center" width="120">
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="60" height="60" />
+  <br><strong>Nginx</strong>
+</td>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="60" />
+  <br><strong>Linux</strong>
 </td>
 </tr>
 </table>
@@ -130,26 +170,148 @@
 
 ---
 
+## 🧪 Engineering Principles I Follow
 
-
+- **Clarity beats cleverness** — readable code scales better than “smart” code.
+- **Measure before optimizing** — profiling > guessing.
+- **Build for failure** — timeouts, retries, idempotency, and graceful degradation.
+- **Small, composable modules** — easy to test, easier to maintain.
+- **Make it observable** — logs/metrics/traces aren’t optional in production.
 
 ---
 
-## 🎨 Fun Zone
+## 📌 Featured Work (Systems/Scale → Tools/APIs)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 Injection Go Pipeline — High-Throughput Kafka Ingestion (Go)
+HTTP → Kafka ingestion service built for **1M–3M events/min** with bounded backpressure.
+
+**Highlights**
+- Batching + retries + DLQ support for reliability under load
+- Worker/channel pipeline design for controlled throughput
+- Includes load generation + end-to-end throughput validation
+
+**Tech**: Go • Kafka • Backpressure • Batching • Docker Compose  
+➡️ Repo: https://github.com/deannos/injection-go-pipeline.git
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 Kafka Injector — HTTP → Kafka + Prometheus Observability (Go)
+Low-latency HTTP → Kafka injector with **backpressure safety** and first-class metrics.
+
+**Highlights**
+- Built for throughput scaling (design/HLD included)
+- Prometheus metrics endpoint + local stack via docker-compose
+- Focus on batching + safety under burst traffic
+
+**Tech**: Go • Kafka • Prometheus • Docker Compose • Systems Design  
+➡️ Repo: https://github.com/deannos/kafka-injector.git
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 Email Checker Tool — DNS Email Infrastructure Auditor (Go)
+A production-grade CLI to validate email domain DNS setup at scale (MX, SPF, DMARC).
+
+**Highlights**
+- Concurrent worker pool + intelligent global rate limiting
+- Streaming CSV input/output for large datasets (low memory footprint)
+- Timeout-safe DNS lookups + graceful shutdown handling
+
+**Tech**: Go • DNS • CLI • Concurrency • CSV Streaming  
+➡️ Repo: https://github.com/deannos/email-checker-tool.git
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 Salary Management API — Clean Architecture + TDD (Go)
+Robust HTTP API to manage employees, compute salary (country-specific tax rules), and serve salary metrics.
+
+**Highlights**
+- Layered architecture: Domain → Repository → Service → Handler
+- SQLite persistence with clean separation of concerns
+- Endpoints: create employee, fetch employee, salary calculation, metrics by country
+
+**Tech**: Go • net/http • SQLite • Testing (TDD mindset)  
+➡️ Repo: https://github.com/deannos/salary-management-api-go.git
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Stats (Clean Layout)
 
 <div align="center">
 
-### 😄 Developer Humor
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=deannos&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deannos&layout=compact&hide_border=true&langs_count=8" />
 
-### 💭 Daily Inspiration
+</div>
+
+---
+
+## 🧩 Problem Solving
+
+<div align="center">
+
+<a href="https://leetcode.com/deannos">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.codechef.com/users/deannos_coder">
+  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+</div>
+
+- I practice DSA to improve **reasoning, tradeoffs, and implementation speed**.
+- Preference: clean solutions, strong edge-case handling, and performance awareness.
+
+---
+
+## 🎯 Currently Exploring (Optional)
+
+- Distributed systems fundamentals (queues, consensus, caching strategies)
+- Backend performance tuning and profiling
+- Better observability patterns (structured logs, metrics-first thinking)
+
+---
+
+## 🎨 Fun Zone (Light, still professional)
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" />
+<br/>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" />
 
+</div>
 
 ---
 
+## 🤝 Let’s Connect
+
 <div align="center">
 
-### 🌟 *"The future belongs to those who code it into existence."*
+<a href="mailto:amjha21122002@gmail.com">
+  <img src="https://img.shields.io/badge/Email-amjha21122002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/amishjha">
+  <img src="https://img.shields.io/badge/LinkedIn-amishjha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
+</div>
 
+<div align="center">
+
+### 🌟 “The future belongs to those who code it into existence.”
+
+</div>
