@@ -1,6 +1,6 @@
 
 <!-- Dynamic Social Links with Custom Styling -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://linkedin.com/in/amishjha">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
@@ -16,14 +16,14 @@
   <a href="https://github.com/deannos">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
   </a>
-</p>
+</p> -->
 
 <!-- Profile Views with Animation -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deannos&label=Profile%20Views&color=00d9ff&style=for-the-badge&abbreviated=true" />
   <img src="https://img.shields.io/github/followers/deannos?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=for-the-badge&labelColor=1a1a1a" />
-</p>
+</p> -->
 
 ---
 
@@ -63,35 +63,8 @@
 </tr>
 </table>
 
-### 🎨 Frontend Excellence
-<table>
-<tr>
-<td align="center" width="100">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
-  <br>React
-</td>
-<td align="center" width="100">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="65" height="65" />
-  <br>Next.js
-</td>
-<td align="center" width="100">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="65" height="65" />
-  <br>Vue.js
-</td>
-<td align="center" width="100">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="65" height="65" />
-  <br>Tailwind
-</td>
-<td align="center" width="100">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="65" height="65" />
-  <br>Sass
-</td>
-<td align="center" width="100">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="65" height="65" />
-  <br>Three.js
-</td>
-</tr>
-</table>
+
+
 
 ### ⚙️ Backend & Database
 <table>
@@ -157,36 +130,8 @@
 
 ---
 
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-### 📬 Get In Touch
-
-<table>
-<tr>
-<td align="center">
-  <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
-  <br><b>Professional</b>
-  <br><a href="https://linkedin.com/in/amishjha">LinkedIn Profile</a>
-</td>
-<td align="center">
-  <img src="https://img.icons8.com/fluency/48/000000/gmail.png"/>
-  <br><b>Direct Contact</b>
-  <br><a href="mailto:contactamish.jha@gmail.com">Email Me</a>
-</td>
-<td align="center">
-  <img src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
-  <br><b>Social Updates</b>
-  <br><a href="https://twitter.com/amishjha">Follow Me</a>
-</td>
-</tr>
-</table>
 
 
-
-
-</div>
 
 ---
 
@@ -206,15 +151,5 @@
 <div align="center">
 
 ### 🌟 *"The future belongs to those who code it into existence."*
-
-<br>
-
-
-
-
-
-
-
-```
 
 
