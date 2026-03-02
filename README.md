@@ -24,11 +24,11 @@ Focused on clean architecture, performance, observability, and production readin
   <a href="mailto:amjha21122002@gmail.com"><strong>Email</strong></a>
 </p>
 
-<p>
+<!-- <p>
   <img src="https://komarev.com/ghpvc/?username=deannos&label=Profile%20Views&color=0ea5e9&style=for-the-badge&abbreviated=true" />
   <img src="https://img.shields.io/github/followers/deannos?label=Followers&style=for-the-badge&color=0ea5e9&labelColor=111827" />
   <img src="https://img.shields.io/badge/Availability-Open%20to%20Work-22c55e?style=for-the-badge&labelColor=111827" />
-</p>
+</p> -->
 
 </div>
 
