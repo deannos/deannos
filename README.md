@@ -269,18 +269,16 @@ Repo: https://github.com/deannos/salary-management-api-go.git
 
 ---
 ## GitHub Stats
+
 <div align="center">
-<img
-  height="180"
-  alt="GitHub Stats"
-  src="https://github-readme-stats.vercel.app/api?username=deannos&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=github_dark_dimmed&hide_border=true"
-/>
-<img
-  height="180"
-  alt="Top Languages"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deannos&theme=github_dark"
-/>
-</div>>
+
+<img height="160" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deannos&theme=github_dark" />
+<img height="160" alt="Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deannos&theme=github_dark" />
+<img height="160" alt="Languages by Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deannos&theme=github_dark" />
+<img height="160" alt="Commit Timeline" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deannos&theme=github_dark&utcOffset=5.5" />
+<img height="160" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deannos&theme=github_dark" />
+
+</div>
 
 
 
