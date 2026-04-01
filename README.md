@@ -268,24 +268,19 @@ Repo: https://github.com/deannos/salary-management-api-go.git
 </table>
 
 ---
-
 ## GitHub Stats
-
 <div align="center">
-
 <img
-  height="160"
+  height="180"
   alt="GitHub Stats"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deannos&theme=github"
+  src="https://github-readme-stats.vercel.app/api?username=deannos&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=github_dark_dimmed&hide_border=true"
 />
-
 <img
-  height="160"
+  height="180"
   alt="Top Languages"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deannos&theme=github"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deannos&theme=github_dark"
 />
-
-</div>
+</div>>
 
 
 
