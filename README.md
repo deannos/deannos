@@ -309,6 +309,8 @@ Repo: https://github.com/deannos/salary-management-api-go.git
 
 ---
 
+<img width="863" height="1187" alt="image" src="https://github.com/user-attachments/assets/9cd713dc-5836-4772-bda0-b2eeb53f99a1" />
+
 ## Contact
 
 <div align="center">
